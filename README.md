@@ -4,32 +4,22 @@
 
 I'm an IT student at University of Warmia and Mazury in Olsztyn. My main focus is learning about Machine Learning in Python using PyTorch.
 
-My Github activity:
+### My Github activity:
 
 - Completed projects
 
 | Project name | Description | Programming language |
 | --- | --- | --- |
 | A* algorithm variation | An algorithm created using priority queue instead of parent-child relation. | C++ |
-| Set of Structured Programming tasks in C language | An algorithm created using priority queue instead of parent-child relation. | C |
-
+| Set of Structured Programming tasks | My solutions of selected problems from "Zadania z programowania w języku C/C++, cz. 1" by Jacek Krzaczkowski | C |
+| Implementation of 5 popular sorting algorithms | Using Windows Forms aplication to ilustrate actions of algorithms like Bubble sort, Insertion sort, Merge sort, Quick sort, Selection sprt | C# |
 
 - Projects in progress
 
 | Project name | Description | Programming language |
 | --- | --- | --- |
-| A* algorithm variation | An algorithm created using priority queue instead of parent-child relation. | C++ |
-<!--
-**Stimm147/Stimm147** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+| Implementation of popular algorithms and data structures | Using Windows Forms aplication to ilustrate actions of algorithms working on data structures like Binary Search Tree, Cycled, Directed and Undirected graphs | C# |
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
