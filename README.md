@@ -2,14 +2,23 @@
 
 ![a banner](/bez_tytułu.gif)
 
-## I'm an IT student at University of Warmia and Mazury in Olsztyn
+I'm an IT student at University of Warmia and Mazury in Olsztyn. My main focus is learning about Machine Learning in Python using PyTorch.
 
-## About my Github activity:
+My Github activity:
 
-- 🌱 I’m currently learning Machine learning
+- Completed projects
 
-- 🔬 The projects I'm working on:
-- 🔭 Completed projects
+| Project name | Description | Programming language |
+| --- | --- | --- |
+| A* algorithm variation | An algorithm created using priority queue instead of parent-child relation. | C++ |
+| Set of Structured Programming tasks in C language | An algorithm created using priority queue instead of parent-child relation. | C |
+
+
+- Projects in progress
+
+| Project name | Description | Programming language |
+| --- | --- | --- |
+| A* algorithm variation | An algorithm created using priority queue instead of parent-child relation. | C++ |
 <!--
 **Stimm147/Stimm147** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
