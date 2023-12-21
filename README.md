@@ -1,4 +1,4 @@
-# Welcome on my profile page 👋
+# Welcome to my profile page 👋
 
 ![a banner](/bez_tytułu.gif)
 
