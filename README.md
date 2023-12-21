@@ -1,5 +1,7 @@
 # Welcome on my profile page 👋
 
+![a banner](/bez_tytułu.gif)
+
 ## I'm an IT student at University of Warmia and Mazury in Olsztyn
 
 ## About my Github activity:
