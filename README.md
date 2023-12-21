@@ -1,4 +1,8 @@
-### Hi there 👋
+# Welcome on my profile page 👋
+
+## I'm an IT student at University of Warmia and Mazury in Olsztyn
+
+## About my Github activity:
 
 - 🌱 I’m currently learning Machine learning
 
