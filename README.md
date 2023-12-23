@@ -2,7 +2,8 @@
 
 ![a banner](/bez_tytułu.gif)
 
-I'm an IT student at University of Warmia and Mazury in Olsztyn. My main focus is learning about Machine Learning in Python using PyTorch.
+IT student at University of Warmia and Mazury in Olsztyn. Member of Artificial Intelligence Society ,,Czarna Magia".
+My main focus is learning about Machine Learning in Python using PyTorch.
 
 ### My Github activity:
 
