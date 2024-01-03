@@ -11,7 +11,7 @@ My main focus is learning about Machine Learning in Python using PyTorch.
 
 | Project name | Description | Programming language |
 | --- | --- | --- |
-| A* algorithm variation | An algorithm created using priority queue instead of parent-child relation. | C++ |
+| [A* algorithm variation](https://github.com/Stimm147/huh_star) | An algorithm created using priority queue instead of parent-child relation. | C++ |
 | Set of Structured Programming tasks | My solutions of selected problems from "Zadania z programowania w języku C/C++, cz. 1" by Jacek Krzaczkowski | C |
 | Implementation of 5 popular sorting algorithms | Using Windows Forms aplication to ilustrate actions of algorithms like Bubble sort, Insertion sort, Merge sort, Quick sort, Selection sprt | C# |
 
