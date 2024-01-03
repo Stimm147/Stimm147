@@ -20,6 +20,7 @@ My main focus is learning about Machine Learning in Python using PyTorch.
 | Project name | Description | Programming language |
 | --- | --- | --- |
 | [Implementation of popular algorithms and data structures](https://github.com/Stimm147/Drzewa-i-grafy) | Using Windows Forms aplication to ilustrate actions of algorithms working on data structures like Binary Search Tree, Cycled, Directed and Undirected graphs | C# |
+| [Machine graphics solutions](https://github.com/Stimm147/Drzewa-i-grafy) | Basic solutions like image filters, effects, copying and pasting pieces of an image by using package "Pillow" and Numpy | Python |
 
 
 
