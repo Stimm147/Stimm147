@@ -2,25 +2,30 @@
 
 ![a banner](/bez_tytułu.gif)
 
-IT student at University of Warmia and Mazury in Olsztyn. Member of Artificial Intelligence Society ,,Czarna Magia".
+Graduated IT student at University of Warmia and Mazury in Olsztyn. Member of Artificial Intelligence Society ,,Czarna Magia".
 My main focus is learning about Machine Learning in Python using PyTorch.
 
 ### My Github activity:
 
 - Completed projects
 
-| Project name | Description | Programming language |
-| --- | --- | --- |
-| [A* algorithm variation](https://github.com/Stimm147/huh_star) | An algorithm created using priority queue instead of parent-child relation. | C++ |
-| [Set of Structured Programming tasks](https://github.com/Stimm147/PSC166327) | My solutions of selected problems from "Zadania z programowania w języku C/C++, cz. 1" by Jacek Krzaczkowski | C |
-| [Implementation of 5 popular sorting algorithms](https://github.com/Stimm147/Projekt_sortowanie) | Using Windows Forms aplication to ilustrate actions of algorithms like Bubble sort, Insertion sort, Merge sort, Quick sort, Selection sprt | C# |
+| Project name                                                                                     | Description | Programming language/Stack |
+|--------------------------------------------------------------------------------------------------| --- |----------------------------|
+| [Neptun's Eye](https://github.com/KTFish/neptuns-eye)                                             | Neptun's Eye is ML-powered point cloud segmentation tool. | Python                     |
+
+
 
 - Projects in progress
 
-| Project name | Description | Programming language |
-| --- | --- | --- |
-| [Implementation of popular algorithms and data structures](https://github.com/Stimm147/Drzewa-i-grafy) | Using Windows Forms aplication to ilustrate actions of algorithms working on data structures like Binary Search Tree, Cycled, Directed and Undirected graphs | C# |
-| [Machine graphics solutions](https://github.com/Stimm147/Drzewa-i-grafy) | Basic solutions like image filters, effects, copying and pasting pieces of an image by using package "Pillow" and Numpy | Python |
+| Project name                                                                                            | Description                                                                                                                                                                                                                                                                                                 | Programming language/Stack |
+|---------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------|
+| [Review and Catalog Website for E-liquids for E-cigarettes](https://github.com/Stimm147/Drzewa-i-grafy) | A review and catalog website for e-liquids designed for e-cigarette users. The platform features a full CRUD-enabled backend, allowing for dynamic content management. Users can browse a wide range of e-liquids, leave detailed reviews, and rate products on a scale from 1 to 5.                        | Django, React, SCSS        |
+| [Anomaly Seeking game](https://github.com/Stimm147/Drzewa-i-grafy)                                      | A first-person anomaly seeking game set in a looping house. Players must identify and report subtle environmental changes—like missing or moved objects—using a tablet interface. Randomized anomalies and a hidden instability system create tense, replayable gameplay focused on observation and memory. | C#                         |
+| [Deep Learning-Based Frame Interpolation App](https://github.com/Stimm147/Drzewa-i-grafy)               | A first-person anomaly seeking game set in a looping house. Players must identify and report subtle environmental changes—like missing or moved objects—using a tablet interface. Randomized anomalies and a hidden instability system create tense, replayable gameplay focused on observation and memory. | Python                     |
+| [Hopefield network implementation](https://github.com/Stimm147/Drzewa-i-grafy)                          | TBD                                                                                                                                                                                                                                                                                                         | Python              |
+| [Boltzmann machines implementation](https://github.com/Stimm147/Drzewa-i-grafy)                         | TBD                                                                                                                                                                                                                                                                                                         | Python              |
+| [Discord Chatbot powered by Llama](https://github.com/Stimm147/Drzewa-i-grafy)               | TBD                                                                                                                                                                                                                                                                                                         | Python              |
+| [An application that summarizes costs from receipts powered by Llama](https://github.com/Stimm147/Drzewa-i-grafy)               | TBD                                                                                                                                                                                                                                                                                                         | Python              |
 
 
 
